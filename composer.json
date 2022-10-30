@@ -5,7 +5,7 @@
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
-        "php": "^8.0.3",
+        "php": ">=8",
         "aws/aws-sdk-php-laravel": "^3.6",
         "endroid/qr-code": "^4.4",
         "fruitcake/laravel-cors": "^2.0",
