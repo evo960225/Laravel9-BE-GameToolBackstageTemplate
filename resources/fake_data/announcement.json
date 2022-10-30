@@ -1,0 +1,14 @@
+[
+  {
+    "type": "everyTime",
+    "content": "公告測試"
+  },
+  {
+    "type": "once",
+    "name": "公告測試"
+  },
+  {
+    "type": "period",
+    "name": "公告測試"
+  }
+]

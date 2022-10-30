@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "name": "星子",
+    "serverId": 101
+  },
+  {
+    "type": "once",
+    "name": "公告測試"
+  },
+  {
+    "type": "period",
+    "name": "公告測試"
+  }
+]

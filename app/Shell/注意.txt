@@ -1,0 +1,1 @@
+使用前起請先注意Windows預設執行shell設定為git bash
